@@ -57,3 +57,6 @@ python run_nerf.py --config configs/blueball.txt
 
  	The version of nerf-pytorch is quite old so it may encounter lots of problems. Thers is a little point that requires attention. That is if your image suffix is ".png", you may get error message from line 111 in nerf-pytorch/load_llff.py, so you'd better use other suffix like ".jpg" or "jpeg" to avoid it. 
 
+**checkpoints link** : 
+
+链接: https://pan.baidu.com/s/15EsG1j4lV1ILBJaCkcvL7A?pwd=n951 提取码: n951 
